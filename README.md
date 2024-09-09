@@ -6,7 +6,7 @@ HomePage:
 
 ![rest-2](https://github.com/user-attachments/assets/6eed8f25-cf75-4d27-b911-609dd4ea1f4a)
 
-
+Filter Based On category(Lunch):
 ![rest-3](https://github.com/user-attachments/assets/72740d17-c4b0-4b5a-a298-da2c45a704d4)
 
 
